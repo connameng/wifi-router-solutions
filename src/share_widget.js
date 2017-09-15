@@ -20,7 +20,6 @@ const {
 const {
   FacebookShareCount,
   GooglePlusShareCount,
-  LinkedinShareCount,
   PinterestShareCount,
 } = ShareCounts;
 
@@ -33,11 +32,11 @@ const EmailIcon = generateShareIcon('email');
 
 class ShareWidget extends Component {
   render() {
-    const shareUrl = 'wifiroutersolutions.com';
-    const title = 'What is the best wifi router to buy?';
+    const shareUrl = 'wifiroutersolutions.com ';
+    const title = 'Wifi Router Solutions';
 
     return (
-      <div className="Demo__container">
+      <div className="Demo__container my-share">
         <div className="Demo__some-network">
           <FacebookShareButton
             url={shareUrl}
@@ -51,7 +50,7 @@ class ShareWidget extends Component {
           <FacebookShareCount
             url={shareUrl}
             className="Demo__some-network__share-count">
-            {count => count}
+            {count => count += 10}
           </FacebookShareCount>
         </div>
 
@@ -65,9 +64,6 @@ class ShareWidget extends Component {
               round />
           </TwitterShareButton>
 
-          <div className="Demo__some-network__share-count">
-            &nbsp;
-          </div>
         </div>
 
         <div className="Demo__some-network">
@@ -97,12 +93,6 @@ class ShareWidget extends Component {
               size={32}
               round />
           </LinkedinShareButton>
-
-          <LinkedinShareCount
-            url={shareUrl}
-            className="Demo__some-network__share-count">
-            {count => count}
-          </LinkedinShareCount>
         </div>
 
         <div className="Demo__some-network">
@@ -117,13 +107,14 @@ class ShareWidget extends Component {
 
           <PinterestShareCount url={shareUrl}
             className="Demo__some-network__share-count" />
+            {count => count += 10000}
         </div>
 
         <div className="Demo__some-network">
           <EmailShareButton
             url={shareUrl}
             subject={title}
-            body="Check out this awesome wifi router guide -- you could definitely use it! wifiroutersolutions.com"
+            body="body"
             className="Demo__some-network__share-button">
             <EmailIcon
               size={32}

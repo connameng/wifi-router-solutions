@@ -1,16 +1,17 @@
 
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
-
+import party from "../public/images/party.png"
+import party1 from "../public/images/party1.png"
 
 class Results extends Component {
   render() {
     return (
 			<div className="my-container">
 				<div> 
-					<h3 className='question-text'>Congrats! <br/>Here are your reccomended routers 
-					<img scr="../public/images/party.png"/>
-					<img scr="../public/images/party1.png"/>
+					
+					<h3 className='question-text'><img className="my-img" src={party} alt="Party"/>Congrats!<img  className="my-img"src={party1} alt="party" /> <br/>Here are your reccomended routers 
+					
 					</h3>
 					<h2 className="subquestion-text"> 
 						<ol>

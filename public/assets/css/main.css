@@ -3613,3 +3613,16 @@ transform: translateY(50%);} to { opacity:1; transform: translateY(0); }  }
 .my-iframe:hover {
 	border: 2px solid #2f79b9;
 }
+
+.my-share {
+	position: fixed;
+	left: 0;
+	top: 50%;
+	margin-top: -2.5em;
+}
+.my-img {
+	height: 50px;
+}
+.main.style2 header.major:after .my-ul {
+	background: none;
+}

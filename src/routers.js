@@ -4,13 +4,13 @@
 import React, { Component } from 'react'
 import preload from '../public/routerdata.json'
 import ShowCard from './ShowCard'
+import ShareWidget from './share_widget'
 
 class Routers extends Component {
   constructor(props) {
     super(props) 
   }
   render() {
-    console.log(this.props.userAnswers)
     
     var priceAnswer = this.props.userAnswers[0]
     if(!priceAnswer || priceAnswer === "anyprice" || priceAnswer === "clearprice") {
@@ -56,6 +56,7 @@ class Routers extends Component {
 
     return (
        <div className='my-container'> 
+        <ShareWidget />
         <div >
           <h3 className='question-text'> Router Options </h3>
         </div>

@@ -52,6 +52,7 @@ class Questions extends Component {
     let newProgressBar = this.state.progressBar
     newProgressBar = 1
     this.setState({progressBar:newProgressBar})
+    this.setState({allAnswers:[]})
   }
 
   handlePriceAnswer(val) {
