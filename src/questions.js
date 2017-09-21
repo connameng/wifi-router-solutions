@@ -1,11 +1,7 @@
 // aggregates all question components and pulls them in on the right hand side of the page. 
 
 import React, { Component } from 'react';
-import {
-  BrowserRouter,
-  Route,
-  history
-} from 'react-router-dom'
+import { Route } from 'react-router-dom'
 import RoomQuestion from './room_question';
 import Routers from './routers';
 import PriceQuestion from './price_question'
@@ -125,18 +121,14 @@ class Questions extends Component {
     return (
       <div >
         <div className='col-md-6 little-space'>
-          <BrowserRouter>
-            <div>
-              <Route exact path="/" render={()=><PriceQuestion context={history} removeProgress={this.removeProgress} handlePriceAnswer={this.handlePriceAnswer}/>}/>
-              <Route exact path="/RoomQuestion" render={()=><RoomQuestion removeProgress={this.removeProgress} handleRoomAnswer={this.handleRoomAnswer}/>}/>
-              <Route exact path="/NumDevicesQuestion" render={()=><NumDevicesQuestion removeProgress={this.removeProgress} handleNumDevicesAnswer={this.handleNumDevicesAnswer}/>}/>
-              <Route exact path="/ParentalQuestion" render={()=><ParentalQuestion removeProgress={this.removeProgress} handleParentalAnswer={this.handleParentalAnswer}/>}/>
-              <Route exact path="/FrequencyQuestion" render={()=><FrequencyQuestion removeProgress={this.removeProgress} handleFrequencyAnswer={this.handleFrequencyAnswer}/>}/>
-              <Route exact path="/DataTransferQuestion" render={()=><DataTransferQuestion removeProgress={this.removeProgress} handleDataTransferAnswer={this.handleDataTransferAnswer}/>}/>
-              <Route exact path="/LanPortQuestion" render={()=><LanPortQuestion removeProgress={this.removeProgress} handleLanPortAnswer={this.handleLanPortAnswer}/>}/>
-              <Route exact path="/Results" render={()=><Results resetProgress={this.resetProgress} handleResultsPage={this.handleResultsPage}/>}/>
-            </div>
-          </BrowserRouter>
+            <Route exact path="/" render={()=><PriceQuestion context={history} removeProgress={this.removeProgress} handlePriceAnswer={this.handlePriceAnswer}/>}/>
+            <Route exact path="/RoomQuestion" render={()=><RoomQuestion removeProgress={this.removeProgress} handleRoomAnswer={this.handleRoomAnswer}/>}/>
+            <Route exact path="/NumDevicesQuestion" render={()=><NumDevicesQuestion removeProgress={this.removeProgress} handleNumDevicesAnswer={this.handleNumDevicesAnswer}/>}/>
+            <Route exact path="/ParentalQuestion" render={()=><ParentalQuestion removeProgress={this.removeProgress} handleParentalAnswer={this.handleParentalAnswer}/>}/>
+            <Route exact path="/FrequencyQuestion" render={()=><FrequencyQuestion removeProgress={this.removeProgress} handleFrequencyAnswer={this.handleFrequencyAnswer}/>}/>
+            <Route exact path="/DataTransferQuestion" render={()=><DataTransferQuestion removeProgress={this.removeProgress} handleDataTransferAnswer={this.handleDataTransferAnswer}/>}/>
+            <Route exact path="/LanPortQuestion" render={()=><LanPortQuestion removeProgress={this.removeProgress} handleLanPortAnswer={this.handleLanPortAnswer}/>}/>
+            <Route exact path="/Results" render={()=><Results resetProgress={this.resetProgress} handleResultsPage={this.handleResultsPage}/>}/>
           <ProgressBar now={this.state.progressBar} />
         </div>
 
