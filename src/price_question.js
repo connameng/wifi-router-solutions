@@ -2,7 +2,6 @@
 // To Do: 
 
 import React, { Component } from 'react'
-import { Link } from 'react-router-dom'
 
 
 class PriceQuestion extends Component {
@@ -10,18 +9,16 @@ class PriceQuestion extends Component {
 	constructor(props,context) {
 		super(props,context);
 		this.state = {
-			answer: "5"
+			answer: ""
 		};
 
 		this.handleOptionChange = this.handleOptionChange.bind(this);
 	}
 	// on change event 
 	handleOptionChange(e) {
-
-		this.setState({
-			answer: e.target.value
-		});
-		this.props.handlePriceAnswer(e);
+		this.props.props.setPage('ROOM_QUESTION')
+		this.props.props.addAnswer(e.target.value, 'PRICE_QUESTION')
+		this.props.props.setAddProgress()
 	}
 
 
@@ -29,12 +26,13 @@ class PriceQuestion extends Component {
 		return (
 
 			<div className="my-container">
+			{}
 				<div>
    					<h3 className='question-text'>How much would you like to spend? 
 					</h3>
 					<h2 className="subquestion-text">I know... first question about money. It's important to think about your maximum budget before looking at different features. <br/>Note: if you do not see any routers, please turn off your add blocker. Also, you might need to pay more if you require more features.
 					</h2>
-   					<Link to="/RoomQuestion">
+
    						<div className='answer-row'>
 
 							<button className="my-button" value="<100" onClick={this.handleOptionChange}>
@@ -57,7 +55,7 @@ class PriceQuestion extends Component {
 							</button>
 
 						</div>
-					</Link>
+
 				</div>	
 			</div>
 			)

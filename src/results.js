@@ -1,10 +1,17 @@
 
 import React, { Component } from 'react'
-import { Link } from 'react-router-dom'
 import party from "../public/images/party.png"
 import party1 from "../public/images/party1.png"
 
 class Results extends Component {
+		constructor(props) {
+		super(props);
+
+		this.handleOptionChange = this.handleOptionChange.bind(this);
+	}
+	handleOptionChange(e) {
+		this.props.props.setResetProgress()
+	}
   render() {
     return (
 			<div className="my-container">
@@ -20,13 +27,13 @@ class Results extends Component {
 								</li> 
 						</ol>
 					</h2>
-						<Link to="/">
+
 							<div className='answer-row' >
-								<button className="button small" onClick={this.props.resetProgress} >
+								<button className="button small" onClick={this.handleOptionChange} >
 									One more time  
 								</button>
 							</div>
-						</Link>
+
 					</div>
 			</div>
     );

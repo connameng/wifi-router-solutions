@@ -1,20 +1,18 @@
 
-import React, { Component } from 'react'
-import Questions from './questions'
-import {
-  HashRouter,
-  Route,
-  history
-} from 'react-router-dom'
+import React from 'react'
+import { Provider } from 'react-redux'
+import store from './redux/store'
+import { BrowserRouter} from 'react-router-dom'
+import Home from './home'
 
-class App extends Component {
-  render() {
-    return (
-      	<HashRouter>
-        	<Questions />
-        </HashRouter>
-    );
-  }
-}
+
+const App = () => (
+	<BrowserRouter>
+		<Provider store={store}> 
+			<Home userAnswers={""}/>
+		</Provider>
+	</BrowserRouter>
+)
+
 
 export default App
