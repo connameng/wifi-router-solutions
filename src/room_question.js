@@ -1,5 +1,4 @@
 // filter out the routers without enough antennas for the larger places. 
-// To Do: 
 
 import React, { Component } from 'react'
 

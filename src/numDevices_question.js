@@ -1,5 +1,5 @@
 // If they have over 8 devices, put MIMO filter = true 
-// To do: none
+
 import React, { Component } from 'react'
 
 class NumDevicesQuestion extends Component {

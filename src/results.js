@@ -1,3 +1,4 @@
+// finished the survey congrats page 
 
 import React, { Component } from 'react'
 import party from "../public/images/party.png"
@@ -17,7 +18,7 @@ class Results extends Component {
 			<div className="my-container">
 				<div> 
 					
-					<h3 className='question-text'><img className="my-img" src={party} alt="Party"/>Congrats!<img  className="my-img"src={party1} alt="party" /> <br/>Here are your reccomended routers 
+					<h3 className='question-text'><img className="my-img" src={party} alt="Party"/> Congrats! <img  className="my-img"src={party} alt="party" /> <br/>Here are your reccomended routers 
 					
 					</h3>
 					<h2 className="subquestion-text"> 

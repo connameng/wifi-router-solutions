@@ -1,5 +1,4 @@
-// 	filters out routers that are not in range 
-// To Do: 
+// 	filters out routers that are not in range  
 
 import React, { Component } from 'react'
 

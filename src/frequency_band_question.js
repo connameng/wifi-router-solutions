@@ -1,4 +1,4 @@
-// Done. Filters out routers who only have 2.4ghz if user selects they live in an apartement. 
+
 import React, { Component } from 'react'
 
 class FrequencyQuestion extends Component {

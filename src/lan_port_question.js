@@ -1,5 +1,5 @@
 // More than 4 needed, filter the one's out with less than 4
-// To do: - add section about putting a switch on the routers with less than 4 LAN ports. 
+
 import React, { Component } from 'react'
 
 class LanPortQuestion extends Component {

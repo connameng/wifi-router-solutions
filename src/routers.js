@@ -1,5 +1,4 @@
-// filters the routers 
-// To Do:         
+// filters the routers       
 
 import React from 'react'
 import { connect } from 'react-redux'

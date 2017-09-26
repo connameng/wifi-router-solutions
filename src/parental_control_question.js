@@ -1,5 +1,4 @@
 // Filters out the routers which are not spceifified for parental controls if user selects they want to filter/restrict activiity on the internet.
-// To Do: - add a section about open source firmware if they want to get any router, but be able to add parental controls.
 
 import React, { Component } from 'react'
 
