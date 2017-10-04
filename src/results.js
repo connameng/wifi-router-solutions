@@ -2,7 +2,6 @@
 
 import React, { Component } from 'react'
 import party from "../public/images/party.png"
-import party1 from "../public/images/party1.png"
 
 class Results extends Component {
 		constructor(props) {
