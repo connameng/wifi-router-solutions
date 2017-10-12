@@ -4,15 +4,14 @@ import React, { Component } from 'react'
 class ShowCard extends Component {
 
  render () {
-  const { iframe_url } = this.props
+  const { router_url, photo, price } = this.props
+  const pricture = `../public/assets/images/${photo}`
+  console.log(price, photo)
     return (
-      <div className="my-iframe col-md-2">
-          <iframe src={iframe_url}
-          width="133px"
-          height="200px"
-          scrolling="no"
-       />
-      </div>
+      <a className="my-iframe col-md-2" href={router_url}>
+        <img src={require("../public/assets/images/google_wifi_router.jpg")} width="133px" height="200px" scrolling="no" alt='picture'/>
+        About ${price}
+      </a>
     )
   }
 }

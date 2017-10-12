@@ -13,7 +13,7 @@
    "data_transfer_rate(mb)": "1900",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "2",
    "CPU": "1.4GHZ DUAL-CORE PROCESSOR",
-   "price ($)": "159.99",
+   "price": "159.99",
    "review": "4.3",
    "number_reviews": "783",
    "protocal": "AC",
@@ -28,8 +28,9 @@
    "FTP_Server": "FALSE",
    "year _released": "9/2015",
    "parent_control_specialty": "TRUE",
-   "photo": "../images/google_wifi_router.jpg",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B0154URN3M&asins=B0154URN3M&linkId=0ffb85f14065a53168acac4bedaf9ab4&show_border=false&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/google_wifi_router.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B0154URN3M&asins=B0154URN3M&linkId=0ffb85f14065a53168acac4bedaf9ab4&show_border=false&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/Google-WiFi-Router-OnHub-AC1900/dp/B0154URN3M/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=b698a6b02d3324ccd628e2edbab675b2"
  },
  {
    "updated_on": "23-JUN",
@@ -44,7 +45,7 @@
    "data_transfer_rate(mb)": "1300",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "1",
    "CPU": "1GHZ DUAL CORE",
-   "price ($)": "147.87",
+   "price": "147.87",
    "review": "4.3",
    "number_reviews": "14,500",
    "protocal": "AC",
@@ -59,7 +60,9 @@
    "FTP_Server": "TRUE",
    "year _released": "10/2013",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00F0DD0I6&asins=B00F0DD0I6&linkId=57a5c820e0fe6e2dfd41090174f93ef7&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/netgear_nighthawk_ac1900 .jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00F0DD0I6&asins=B00F0DD0I6&linkId=57a5c820e0fe6e2dfd41090174f93ef7&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/NETGEAR-Nighthawk-Parental-Controls-Compatible/dp/B00F0DD0I6/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=584f829e9bb7d5cdfa0be0a687b4d48a"
  },
  {
    "updated_on": "23-JUN",
@@ -74,7 +77,7 @@
    "data_transfer_rate(mb)": "1300",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "1",
    "CPU": "1 GHZ DUAL-CORE ARM® CORTEX",
-   "price ($)": "49.99",
+   "price": "66.17",
    "review": "3.9",
    "number_reviews": "1,182",
    "protocal": "AC",
@@ -89,7 +92,9 @@
    "FTP_Server": "FALSE",
    "year _released": "12/2013",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00HKEI3DA&asins=B00HKEI3DA&linkId=09dbe306116700d7bbd3cb10abdfec42&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/trendnet_ac1900.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00HKEI3DA&asins=B00HKEI3DA&linkId=09dbe306116700d7bbd3cb10abdfec42&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/TRENDnet-Wireless-One-Touch-connection-Compatible/dp/B00HKEI3DA/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=5d465f4e3b206e121f47088ad85120e6"
  },
  {
    "updated_on": "23-JUN",
@@ -104,7 +109,7 @@
    "data_transfer_rate(mb)": "300",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "1",
    "CPU": "750-MHZ ARM CORTEX DUAL-CORE",
-   "price ($)": "79.99",
+   "price": "79.99",
    "review": "4.2",
    "number_reviews": "12,100",
    "protocal": "N",
@@ -119,7 +124,9 @@
    "FTP_Server": "FALSE",
    "year _released": "6/2012",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B0087NZ31S&asins=B0087NZ31S&linkId=6351a9f62b737cc130c5889507038ee9&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/securifi_almond.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B0087NZ31S&asins=B0087NZ31S&linkId=6351a9f62b737cc130c5889507038ee9&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/Securifi-Almond-Touchscreen-Wireless-Extender/dp/B0087NZ31S/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=d7dbcb1501436be7b308afc6fdb4453a"
  },
  {
    "updated_on": "23-JUN",
@@ -134,7 +141,7 @@
    "data_transfer_rate(mb)": "1733",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "2",
    "CPU": "1.4 GHZ DUAL CORE",
-   "price ($)": "149.99",
+   "price": "122.80",
    "review": "3.9",
    "number_reviews": "1,181",
    "protocal": "AC",
@@ -149,7 +156,9 @@
    "FTP_Server": "FALSE",
    "year _released": "1/2015",
    "parent_control_specialty": "FALSE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00S7NK8Y0&asins=B00S7NK8Y0&linkId=a335b4ccbd6bff44ef4f5df7fbb91317&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/trendnet_ac2600.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00S7NK8Y0&asins=B00S7NK8Y0&linkId=a335b4ccbd6bff44ef4f5df7fbb91317&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/TRENDnet-StreamBoost-Beamforming-streaming-TEW-827DRU/dp/B00S7NK8Y0/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=67e9b4359dd7f45bdef2a07b5abffc3b"
  },
  {
    "updated_on": "6/24",
@@ -164,7 +173,7 @@
    "data_transfer_rate(mb)": "1300",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "1",
    "CPU": "1GHZ DUAL CORE",
-   "price ($)": "134.00",
+   "price": "99.00",
    "review": "3.6",
    "number_reviews": "516",
    "protocal": "AC",
@@ -179,7 +188,9 @@
    "FTP_Server": "FALSE",
    "year _released": "11/2014",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00ON7AX3U&asins=B00ON7AX3U&linkId=e7d477c50b75563d3146f2bc5ef27bc8&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/linksys_ac3200.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00ON7AX3U&asins=B00ON7AX3U&linkId=e7d477c50b75563d3146f2bc5ef27bc8&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/Linksys-Tri-Band-Designed-Device-Heavy-Anywhere/dp/B00ON7AX3U/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=1df8d38321116202a248bac880a0fc08"
  },
  {
    "updated_on": "6/26",
@@ -194,7 +205,7 @@
    "data_transfer_rate(mb)": "1800",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "2",
    "CPU": "1.4GHZ DUAL CORE",
-   "price ($)": "344.99",
+   "price": "344.99",
    "review": "3.9",
    "number_reviews": "3,100",
    "protocal": "AC",
@@ -209,7 +220,9 @@
    "FTP_Server": "FALSE",
    "year _released": "10/2015",
    "parent_control_specialty": "FALSE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B0167HG1V6&asins=B0167HG1V6&linkId=c161fc49865b6167f8912febe33b2238&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/asus_ac5300.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B0167HG1V6&asins=B0167HG1V6&linkId=c161fc49865b6167f8912febe33b2238&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/Wireless-Tri-Band-RT-AC5300-802-11ac-Optimization/dp/B0167HG1V6/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=cb79de91171cfdb8685b67523e0f0085"
  },
  {
    "updated_on": "6/26",
@@ -224,7 +237,7 @@
    "data_transfer_rate(mb)": "1625",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "2",
    "CPU": "1.8GHZ DUAL CORE",
-   "price ($)": "148.00",
+   "price": "136.00",
    "review": "4",
    "number_reviews": "10100",
    "protocal": "AC",
@@ -239,7 +252,9 @@
    "FTP_Server": "FALSE",
    "year _released": "4/2017",
    "parent_control_specialty": "FALSE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B06XZ3S6B8&asins=B06XZ3S6B8&linkId=fc1303955ae7a969803583359a0f472d&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/tplink_ac2300.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B06XZ3S6B8&asins=B06XZ3S6B8&linkId=fc1303955ae7a969803583359a0f472d&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/TP-Link-Wireless-Router-Dual-Core-Processor/dp/B06XZ3S6B8/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=3ab6cfdde7adbe545d57a94874f43d03"
  },
  {
    "updated_on": "6/27",
@@ -254,7 +269,7 @@
    "data_transfer_rate(mb)": "1300",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "1",
    "CPU": "1 GHZ DUAL CORE ",
-   "price ($)": "229.99",
+   "price": "229.99",
    "review": "4.3",
    "number_reviews": "14560",
    "protocal": "AC",
@@ -269,7 +284,9 @@
    "FTP_Server": "TRUE",
    "year _released": "6/2014",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00KWHMR6G&asins=B00KWHMR6G&linkId=242f349cc3b91824b298eb4d153f669e&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/netgear_nighthawk_ac3200.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00KWHMR6G&asins=B00KWHMR6G&linkId=242f349cc3b91824b298eb4d153f669e&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/NETGEAR-Nighthawk-Tri-Band-Gigabit-Compatible/dp/B00KWHMR6G/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=946b148603065faaf08dbb13a6043539"
  },
  {
    "updated_on": "7/6",
@@ -284,7 +301,7 @@
    "data_transfer_rate(mb)": "1200",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "1",
    "CPU": "\n716 MHZ QUAD-CORE ARM CPU",
-   "price ($)": "114.01",
+   "price": "114.01",
    "review": "4.4",
    "number_reviews": "1400",
    "protocal": "AC",
@@ -299,7 +316,9 @@
    "FTP_Server": "FALSE",
    "year _released": "10/2016",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B01MDJ0HVG&asins=B01MDJ0HVG&linkId=cefadac4181ea4f9463fe44bbc1f3d9e&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/google_wifi_system_single.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B01MDJ0HVG&asins=B01MDJ0HVG&linkId=cefadac4181ea4f9463fe44bbc1f3d9e&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/Google-Wifi-system-single-point/dp/B01MDJ0HVG/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=68007c119b9534e19368cced5f38e0ac"
  },
  {
    "updated_on": "7/6",
@@ -314,7 +333,7 @@
    "data_transfer_rate(mb)": "2500",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "2",
    "CPU": "1.7GHZ DUAL-CORE PROCESSOR",
-   "price ($)": "249.99",
+   "price": "249.99",
    "review": null,
    "number_reviews": null,
    "protocal": "AC",
@@ -329,7 +348,9 @@
    "FTP_Server": "FALSE",
    "year _released": "5/2017",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B06Y2B4NWY&asins=B06Y2B4NWY&linkId=0310264b903a28f3abae555136dc5672&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/norton_core.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B06Y2B4NWY&asins=B06Y2B4NWY&linkId=0310264b903a28f3abae555136dc5672&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/Antivirus-Security-Parental-Granite-Gray/dp/B06Y2B4NWY/ref=as_li_ss_tl?&th=1&linkCode=ll1&tag=wifi0f9a-20&linkId=27b76590153569301c6df01455bfd5aa"
  },
  {
    "updated_on": "7/6",
@@ -344,7 +365,7 @@
    "data_transfer_rate(mb)": "1300",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "1",
    "CPU": "1.4 GHZ DUAL CORE PROCESSOR",
-   "price ($)": "134.99",
+   "price": "134.99",
    "review": "4.4",
    "number_reviews": "3700",
    "protocal": "AC",
@@ -359,7 +380,9 @@
    "FTP_Server": "FALSE",
    "year _released": "2/2016",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B019WAQMVY&asins=B019WAQMVY&linkId=6b9a42712a0bab9d22718be7d9fc40b4&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/linksys_ac1900_ea7500.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B019WAQMVY&asins=B019WAQMVY&linkId=6b9a42712a0bab9d22718be7d9fc40b4&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/Linksys-AC1900-Wireless-Router-EA7500/dp/B019WAQMVY/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=b6a4fcd565fd415d598e08b2d6a41b8a"
  },
  {
    "updated_on": "7/6",
@@ -374,7 +397,7 @@
    "data_transfer_rate(mb)": "1750",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "2",
    "CPU": "1.2GHZ DUAL-CORE PROCESSOR",
-   "price ($)": "179.98",
+   "price": "179.98",
    "review": "3.8",
    "number_reviews": "3000",
    "protocal": "AC",
@@ -389,7 +412,9 @@
    "FTP_Server": "FALSE",
    "year _released": "8/2014",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00MPI5N7U&asins=B00MPI5N7U&linkId=209dae6821effef7f4d9bfa95e2bdada&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/asus_ac2400.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00MPI5N7U&asins=B00MPI5N7U&linkId=209dae6821effef7f4d9bfa95e2bdada&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/Wireless-AC2400-Gigabit-Router-AiProtection/dp/B00MPI5N7U/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=26d9d15d95ac1f95f839db53ed287fd9"
  },
  {
    "updated_on": "7/15",
@@ -404,7 +429,7 @@
    "data_transfer_rate(mb)": "867",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "1",
    "CPU": "800 MHZ",
-   "price ($)": "62.22",
+   "price": "62.22",
    "review": "3.9",
    "number_reviews": "1,300",
    "protocal": "AC",
@@ -419,7 +444,9 @@
    "FTP_Server": "FALSE",
    "year _released": "12/2014",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00QGOQ2BA&asins=B00QGOQ2BA&linkId=4458fb1df713de90cc36a986fefacbd4&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/netgear_ac1200.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00QGOQ2BA&asins=B00QGOQ2BA&linkId=4458fb1df713de90cc36a986fefacbd4&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/NETGEAR-AC1200-External-Antennas-R6220-100NAS/dp/B00QGOQ2BA/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=bdba502de360ff66bb1b89e3706c1fe1"
  },
  {
    "updated_on": "7/15",
@@ -434,7 +461,7 @@
    "data_transfer_rate(mb)": "1300",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "1",
    "CPU": "1.6GHZ DUAL-CORE",
-   "price ($)": "199.99",
+   "price": "199.99",
    "review": "4",
    "number_reviews": "4800",
    "protocal": "AC",
@@ -449,7 +476,9 @@
    "FTP_Server": "FALSE",
    "year _released": "10/2015",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B014MIBLSA&asins=B014MIBLSA&linkId=e429e20ab6d41480bfbe412bb5170511&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/linksys_ac1900_wrt.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B014MIBLSA&asins=B014MIBLSA&linkId=e429e20ab6d41480bfbe412bb5170511&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/Linksys-AC1900-Source-Wireless-WRT1900ACS/dp/B014MIBLSA/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=1e7ef7808dbdba5a5e7eb560125cdc50"
  },
  {
    "updated_on": "7/15",
@@ -464,7 +493,7 @@
    "data_transfer_rate(mb)": "2600",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "2",
    "CPU": "1.8 GHZ DUAL-CORE",
-   "price ($)": "233.82",
+   "price": "233.82",
    "review": "4.2",
    "number_reviews": "800",
    "protocal": "AC",
@@ -479,7 +508,9 @@
    "FTP_Server": "FALSE",
    "year _released": "9/2016",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B01JOXW3YE&asins=B01JOXW3YE&linkId=bcaad38ea0c586f6cd020e8874ae93df&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/linksys_ac2300_wrt.jpg",
+   "iframe_url": "http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B01JOXW3YE&asins=B01JOXW3YE&linkId=bcaad38ea0c586f6cd020e8874ae93df&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/Linksys-Dual-Band-Wireless-Tri-Stream-WRT3200ACM/dp/B01JOXW3YE/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=f95667ab81e5c6311ea70cd9066f1f2e"
  },
  {
    "updated_on": "7/19",
@@ -494,7 +525,7 @@
    "data_transfer_rate(mb)": "1733",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "2",
    "CPU": "1.7 GHZ DUAL-CORE",
-   "price ($)": "189.99",
+   "price": "189.99",
    "review": "4.2",
    "number_reviews": "15000",
    "protocal": "AC",
@@ -509,7 +540,9 @@
    "FTP_Server": "TRUE",
    "year _released": "1/2016",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B0192911RA&asins=B0192911RA&linkId=c560b8f2e9768912789b91aabdb6c131&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/netgear_nighthawk_ac2600.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B0192911RA&asins=B0192911RA&linkId=c560b8f2e9768912789b91aabdb6c131&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/NETGEAR-Nighthawk-X4S-R7800-100NAS-Compatible/dp/B0192911RA/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=1c022216def651acaca2707575b69f96"
  },
  {
    "updated_on": "7/19",
@@ -524,7 +557,7 @@
    "data_transfer_rate(mb)": "1200",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "1",
    "CPU": "\n716 MHZ QUAD-CORE ARM CPU",
-   "price ($)": "269.99",
+   "price": "269.99",
    "review": "4.4",
    "number_reviews": "1400",
    "protocal": "AC",
@@ -539,7 +572,9 @@
    "FTP_Server": "FALSE",
    "year _released": "10/2016",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B01MAW2294&asins=B01MAW2294&linkId=026cc5633732590700929719919e98fb&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/google_wifi_system_3_pack.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B01MAW2294&asins=B01MAW2294&linkId=026cc5633732590700929719919e98fb&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/Google-Wifi-system-set-replacement/dp/B01MAW2294/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=d25278c398dcd20d086569d963fb9b1a"
  },
  {
    "updated_on": "7/19",
@@ -554,7 +589,7 @@
    "data_transfer_rate(mb)": "1733",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "2",
    "CPU": "710 MHZ QUAD-CORE",
-   "price ($)": "347.46",
+   "price": "347.46",
    "review": "4.5",
    "number_reviews": "1900",
    "protocal": "AC",
@@ -569,7 +604,9 @@
    "FTP_Server": "FALSE",
    "year _released": "10/2016",
    "parent_control_specialty": "FALSE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B01K4CZOBS&asins=B01K4CZOBS&linkId=5cb5c60bfc8fac280f8c248f7182073b&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/netgear_orbi_wifi_system_ac3000.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B01K4CZOBS&asins=B01K4CZOBS&linkId=5cb5c60bfc8fac280f8c248f7182073b&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/NETGEAR-Orbi-Home-WiFi-System/dp/B01K4CZOBS/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=df938ffb5408d6aae33b278f799d8dec"
  },
  {
    "updated_on": "7/19",
@@ -584,7 +621,7 @@
    "data_transfer_rate(mb)": "867",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "1",
    "CPU": "716 MHZ QUAD-CORE",
-   "price ($)": "279.99",
+   "price": "279.99",
    "review": "4.5",
    "number_reviews": "1500",
    "protocal": "AC",
@@ -599,7 +636,9 @@
    "FTP_Server": "FALSE",
    "year _released": "1/2017",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B01MSSUG2H&asins=B01MSSUG2H&linkId=cfcd0ac19432ce11b12dba86a1d006ed&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/linksys_velop_mesh_system_2_pack.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B01MSSUG2H&asins=B01MSSUG2H&linkId=cfcd0ac19432ce11b12dba86a1d006ed&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/Linksys-Tri-band-coverage-Replacement-Network/dp/B01MSSUG2H/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=acaa1f1729ae50f221b989d2f9b2c4a4"
  },
  {
    "updated_on": "7/19",
@@ -614,7 +653,7 @@
    "data_transfer_rate(mb)": "1300",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "1",
    "CPU": "1 GHZ DUAL-CORE",
-   "price ($)": "109.97",
+   "price": "99.00",
    "review": "4",
    "number_reviews": "10000",
    "protocal": "AC",
@@ -629,7 +668,9 @@
    "FTP_Server": "TRUE",
    "year _released": "10/2014",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00PDLRHFW&asins=B00PDLRHFW&linkId=720b8db03f7e56ea68391fe53849ab0b&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/tplink_ac1900.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00PDLRHFW&asins=B00PDLRHFW&linkId=720b8db03f7e56ea68391fe53849ab0b&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/TP-Link-AC1900-Wireless-Archer-C9/dp/B00PDLRHFW/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=9078396b7c8f8b7fc179e60ff9ea1501"
  },
  {
    "updated_on": "7/19",
@@ -644,7 +685,7 @@
    "data_transfer_rate(mb)": "2167",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "2",
    "CPU": "1.4GHZ DUAL-CORE ",
-   "price ($)": "179.99",
+   "price": "179.99",
    "review": "4.3",
    "number_reviews": "900",
    "protocal": "AC",
@@ -659,7 +700,9 @@
    "FTP_Server": "TRUE",
    "year _released": "1/2017",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B01N4R01UJ&asins=B01N4R01UJ&linkId=72151747f3d7a56432a080eb6383d022&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/tplink_ac3150.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B01N4R01UJ&asins=B01N4R01UJ&linkId=72151747f3d7a56432a080eb6383d022&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/TP-Link-AC3150-Wireless-MU-MIMO-Router/dp/B01N4R01UJ/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=52162957e22de98d1a9441c4b5bee421"
  },
  {
    "updated_on": "7/19",
@@ -674,7 +717,7 @@
    "data_transfer_rate(mb)": "867",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "1",
    "CPU": null,
-   "price ($)": "387.58",
+   "price": "387.58",
    "review": null,
    "number_reviews": null,
    "protocal": "AC",
@@ -689,7 +732,9 @@
    "FTP_Server": "FALSE",
    "year _released": "9/2016",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B01EMFYRYS&asins=B01EMFYRYS&linkId=55f5a7714c5a2a113af210d8f3cdadb8&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/securifi_almond_3_3_pack.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B01EMFYRYS&asins=B01EMFYRYS&linkId=55f5a7714c5a2a113af210d8f3cdadb8&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/Securifi-Almond-Pack-Built-Universally/dp/B01EMFYRYS/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=32a51fb8d30fec8d67976b6532306c20"
  },
  {
    "updated_on": "7/19",
@@ -704,7 +749,7 @@
    "data_transfer_rate(mb)": "1300",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "1",
    "CPU": "750-MHZ DUAL-CORE",
-   "price ($)": "123.94",
+   "price": "123.94",
    "review": "3.8",
    "number_reviews": "399",
    "protocal": "AC",
@@ -719,7 +764,9 @@
    "FTP_Server": "FALSE",
    "year _released": "12/2014",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00R0C2U5E&asins=B00R0C2U5E&linkId=28bc3ce3db364325016d84ef6819b4bd&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/securifi_almond_plus.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00R0C2U5E&asins=B00R0C2U5E&linkId=28bc3ce3db364325016d84ef6819b4bd&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/Securifi-Touchscreen-Wireless-Extender-Automation/dp/B00R0C2U5E/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=c7c2cd214b1ead48636c4abd02de4f20"
  },
  {
    "updated_on": "7/20",
@@ -734,7 +781,7 @@
    "data_transfer_rate(mb)": "867",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "1",
    "CPU": "717 MHZ QUAD-CORE",
-   "price ($)": "67.83",
+   "price": "67.83",
    "review": "4.2",
    "number_reviews": "800",
    "protocal": "AC",
@@ -749,7 +796,9 @@
    "FTP_Server": "TRUE",
    "year _released": "9/2016",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B01LXL1AR8&asins=B01LXL1AR8&linkId=70a4648b1bfeded22e5e7dc9bd6b1cc1&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/asus_ac1300.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B01LXL1AR8&asins=B01LXL1AR8&linkId=70a4648b1bfeded22e5e7dc9bd6b1cc1&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/RT-ACRH13-Dual-Band-AC1300-4-port-Gigabit/dp/B01LXL1AR8/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=c42dfe9e718c5f695685b9dbfab260b5"
  },
  {
    "updated_on": "7/20",
@@ -764,7 +813,7 @@
    "data_transfer_rate(mb)": "1733",
    "data_transfer_value (1=<1300; 2>1300 mbps)": "2",
    "CPU": "1.4 GHZ DUAL-CORE",
-   "price ($)": "152.94",
+   "price": "152.94",
    "review": "4",
    "number_reviews": "500",
    "protocal": "AC",
@@ -779,6 +828,8 @@
    "FTP_Server": "FALSE",
    "year _released": "4/2015",
    "parent_control_specialty": "TRUE",
-   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00UVN21DK&asins=B00UVN21DK&linkId=7d878a7196a070a0998f425e58d325e7&show_border=true&link_opens_in_new_window=true"
+   "photo": "../../public/assets/images/linksys_ac2600_ea8500.jpg",
+   "iframe_url": "https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wifi0f9a-20&marketplace=amazon&region=US&placement=B00UVN21DK&asins=B00UVN21DK&linkId=7d878a7196a070a0998f425e58d325e7&show_border=true&link_opens_in_new_window=true",
+   "router_url": "https://www.amazon.com/Linksys-AC2600-Wireless-MU-MIMO-EA8500/dp/B00UVN21DK/ref=as_li_ss_tl?&linkCode=ll1&tag=wifi0f9a-20&linkId=a35e83df97e2f9ca4cef341fd482d4fb"
  }
 ]}

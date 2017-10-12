@@ -3,8 +3,8 @@ import preload from '../../public/routerdata.json'
 
 console.log(preload)
 const initialState = {
-	page: "PRICE_QUESTION",
-	PRICE_QUESTION: "",
+	page: 'PRICE_QUESTION',
+	PRICE_QUESTION: '',
 	ROOM_QUESTION: '',
 	NUM_DEVICES_QUESTION: '',
 	PARENTAL_QUESTION: '',
