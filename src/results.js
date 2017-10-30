@@ -6,6 +6,7 @@ import party from "../public/images/party.png"
 class Results extends Component {
 		constructor(props) {
 		super(props);
+
 		this.handleOptionChange = this.handleOptionChange.bind(this);
 	}
 	handleOptionChange(e) {
@@ -26,6 +27,7 @@ class Results extends Component {
 								</li> 
 						</ol>
 					</h2>
+
 							<div className='answer-row' >
 								<button className="button small" onClick={this.handleOptionChange} >
 									One more time  

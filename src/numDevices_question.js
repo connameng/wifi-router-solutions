@@ -3,6 +3,7 @@
 import React, { Component } from 'react'
 
 class NumDevicesQuestion extends Component {
+	// everytime render component takes prop from parent 
 	constructor(props) {
 		super(props);
 		this.state = {
@@ -25,6 +26,7 @@ class NumDevicesQuestion extends Component {
 	}
 // questions
 	render () {
+
 		return (
 			<div className="my-container">
 				<div>
@@ -32,6 +34,7 @@ class NumDevicesQuestion extends Component {
 					</h3>
 					<h2 className="subquestion-text">Think of how many devices (laptops, gaming systems, cell phones/ TVs etc.) that will be connected to your wireless network. Informative: There's a great technology called MIMO that helps with multiple devices on the same network.
 					</h2>
+
  						<div className='answer-row' >
 							<button className="my-button" value="" onClick={this.handleOptionChange}>
 								Less than 8
@@ -46,6 +49,7 @@ class NumDevicesQuestion extends Component {
 									Back  
 								</button>
 							</div>
+
 				</div>	
 			</div>
 			)
