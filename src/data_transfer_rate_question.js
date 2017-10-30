@@ -1,5 +1,4 @@
 // Filters out routers that are overly powerful or that are not powerful enough. 
-// To do: - add section about how to find out which plan they are on. 
 
 import React, { Component } from 'react'
 

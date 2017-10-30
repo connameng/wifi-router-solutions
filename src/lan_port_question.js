@@ -6,12 +6,10 @@ class LanPortQuestion extends Component {
 	// everytime render component takes prop from parent 
 	constructor(props) {
 		super(props);
-
 		this.handleOptionChange = this.handleOptionChange.bind(this);
 		this.handleBack = this.handleBack.bind(this);
 	}
 	// on change event 
-
 	handleOptionChange(e) {
 		this.props.props.setPage('RESULTS')
 		this.props.props.addAnswer(e.target.value,"LAN_PORT_QUESTION")
@@ -24,7 +22,6 @@ class LanPortQuestion extends Component {
 	}
 // questions
 	render () {
-
 		return (
 			<div className="my-container">
 				<div>
