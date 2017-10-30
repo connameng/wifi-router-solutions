@@ -16,8 +16,9 @@ class Results extends Component {
     return (
 			<div className="my-container">
 				<div> 
-					
 					<h3 className='question-text'><img className="my-img" src={party} alt="Party"/> Congrats! <img className="my-img"src={party} alt="party" /> <br/>Here are your reccomended routers 
+					</h3>
+					<h3 className='question-text'><img className="my-img" src={party} alt="Party"/> Congrats! <img  className="my-img"src={party} alt="party" /> <br/>Here are your reccomended routers 
 					
 					</h3>
 					<h2 className="subquestion-text"> 
